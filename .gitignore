@@ -1,0 +1,28 @@
+# ide
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.project
+.classpath
+.settings/
+.metadata/
+*.launch
+bin/
+.vscode/
+
+# gradle
+.gradle/
+build/
+
+# forge dev runtime
+run/
+forge*changelog.txt
+
+# logs
+logs/
+
+# os
+.DS_Store
+Thumbs.db
